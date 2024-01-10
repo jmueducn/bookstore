@@ -1,0 +1,9 @@
+<archetype>
+  <id>se3353_25_spark_java</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>

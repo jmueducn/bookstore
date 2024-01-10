@@ -1,0 +1,4 @@
+/Users/haopengchen/spark-3.5.0-bin-hadoop3/bin/spark-submit \
+  --class "SimpleApp" \
+  --master spark://HAOPENGdeMacBook-Pro.local:7077 \
+  target/se3353_25_spark_java-1.0-SNAPSHOT.jar

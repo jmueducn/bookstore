@@ -1,0 +1,11 @@
+Introduction to Algorithms:
+A comprehensive introduction to the design and analysis of algorithms. This book covers a wide range of algorithmic techniques and provides insights into solving complex problems efficiently.
+
+Clean Code: A Handbook of Agile Software Craftsmanship:
+Learn best practices for writing clean and maintainable code. This handbook, authored by Robert C. Martin, offers practical advice and examples to help developers improve their coding skills.
+
+Design Patterns: Elements of Reusable Object-Oriented Software:
+Explore classic software design patterns and their applications. This influential book, commonly known as the "Gang of Four" book, provides essential insights into creating flexible and reusable software components.
+
+Artificial Intelligence: A Modern Approach:
+An in-depth exploration of artificial intelligence concepts and techniques. This comprehensive textbook, written by Stuart Russell and Peter Norvig, covers a wide range of AI topics, including problem-solving, knowledge representation, and machine learning.
