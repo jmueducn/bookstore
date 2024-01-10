@@ -1,0 +1,2 @@
+docker run -v E:/springdemo/bookdemo/sth:/data -d --name spark-worker --network spark-network -e SPARK_MASTER=spark://172.19.0.2:7077 bitnami/spark:latest bin/spark-class org.apache.spark.deploy.worker.Worker spark://172.19.0.2:7077
+docker exec spark-master /opt/bitnami/spark/bin/spark-submit --class KeywordCount --master spark://172.19.0.2:7077 /data/WithOutputfile.jar

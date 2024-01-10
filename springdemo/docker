@@ -1,0 +1,11 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Expected parameters: <project_file_path> <inspection_profile> <output_path> [<options>]
+<inspection_profile> -- a profile name configured in the project or locally or a path to a inspection profile; can be skipped when one of -e|-profileName|-profilePath is used
+Available options are:
+ -d <directory_path>  --  directory to inspect, default is the whole project
+-e                   --  use the inspection profile that is set for the project
+-v[0|1|2]            --  verbose level. 0 - silent, 1 - verbose, 2 - most verbose
+-profileName         --  name of a profile defined in the project
+-profilePath         --  absolute path to a profile file
+-format              --  report output format. One of xml|json|plain, default is xml
+-changes             --  inspect uncommitted changes and report new problems
